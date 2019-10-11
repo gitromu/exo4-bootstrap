@@ -1,0 +1,8 @@
+.card{
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%);
+}
+.modal-body a{
+  color: white;
+}
